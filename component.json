@@ -1,0 +1,16 @@
+{
+  "name": "chart",
+  "repo": "tm2/Chart.js.legend",
+  "version": "0.1.0",
+  "description": "Chart JS legends",
+  "keywords": [
+    "charts",
+    "chart",
+    "charting"
+  ],
+  "author": "",
+  "main": "src/legend.js",
+  "scripts": [
+    "src/legend.js"
+  ]
+}
