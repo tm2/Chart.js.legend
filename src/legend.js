@@ -18,3 +18,4 @@ function legend(parent, data) {
         title.appendChild(text);
     });
 }
+module.exports = legend;
